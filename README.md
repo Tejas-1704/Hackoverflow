@@ -16,7 +16,8 @@ To address these multifaceted challenges, we are excited to introduce a groundbr
 ![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/d425b95d-ba01-46c1-b0e7-5397e7a02fc9)
 
 ## TechStack:
-![image](https://github.com/Tejas-1704/Hackoverflow/assets/99063222/5a65f197-a409-4813-82f5-1276f962a4bf)
+![image](https://github.com/Tejas-1704/Hackoverflow/assets/99091892/cd1a2c4a-1db0-4298-90bc-e8423d56476d)
+
 
 
 ## Key Features:
