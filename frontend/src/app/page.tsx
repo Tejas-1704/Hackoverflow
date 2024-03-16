@@ -1,15 +1,15 @@
+import Image from "next/image";
 "use client"
-// import Theme from "@/components/Theme/page";
-// import ChatBot from "@/components/chatbot/page";
+import {MacbookScrollDemo} from "../components/macbook";
+import { GlobeDemo } from "@/components/globe";
+import Footer from "../components/footer/page"
 
 export default function Home() {
-  // const {theme,themes,handleTheme} = Theme();
-
   return (
-    <main
-      className={`flex min-h-screen items-center justify-around bg-primary bg-black `}
-    >
-      {/* // add HomePage Here  */}
+    <main className="bg-zinc-800 mt-0" >
+      <MacbookScrollDemo  />
+      <GlobeDemo />
+      <Footer/>
     </main>
   );
 }
