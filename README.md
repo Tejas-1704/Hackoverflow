@@ -1,4 +1,12 @@
 # Health and Wellness App for Urban Dwellers
+## Instructions to use the website
+
+* You just need the frontend file to run website as backend api's are hosted on pythonanywhere
+* clone the repository
+* In the frontend directory ,
+* Run ``` npm i ``` to download required nodemodules
+  ``` npm run dev``` to start the server
+  ## Introduction:
 In today's fast-paced urban environment, maintaining physical and mental health has become increasingly challenging. Extended work hours, constant engagement with technology, and the hustle of city life have contributed to a rise in health issues among urban residents. This situation is further complicated by barriers such as limited access to timely healthcare services and cultural and linguistic differences that hinder the effective communication of health-related information.
 
 To address these multifaceted challenges, we are excited to introduce a groundbreaking health and wellness application tailored for the urban populace. Our app is designed to bridge the gap between traditional healthcare systems and the modern urban lifestyle, ensuring that residents can easily manage their health and well-being without compromising their work commitments or personal time.
