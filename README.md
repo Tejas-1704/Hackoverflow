@@ -35,6 +35,8 @@ Our mental health chatbot is built on a sophisticated platform that mines insigh
 ### 4. Real-Time Facial Analysis and Recommendation:
 Our cutting-edge facial analysis tool offers real-time insights into users' emotional states, suggesting personalized interventions such as exercises for eye strain relief. Additionally, it curates content like movies, music, and stories tailored to the user's mood, fostering a positive mental state.
 ![WhatsApp Image 2024-03-16 at 06 47 28_6f4cc493](https://github.com/Tejas-1704/Hackoverflow/assets/99063222/5d4f98aa-8375-4028-a45a-ace1eb231351)
+![WhatsApp Image 2024-03-16 at 6 52 54 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/1cdb76a0-e8e0-4151-992f-2150de90c954)
+
 
 
 Our app is not just a tool but a companion for urban residents, aiming to enhance the quality of life by integrating the essence of traditional health practices with the convenience of modern technology. By democratizing access to health and wellness resources, we envision a future where every urban dweller can achieve a balanced and healthy lifestyle, irrespective of their hectic schedules or geographical constraints. Join us in redefining urban health and wellness for a happier, healthier tomorrow.
