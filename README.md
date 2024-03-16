@@ -31,11 +31,3 @@ Our cutting-edge facial analysis tool offers real-time insights into users' emot
 
 Our app is not just a tool but a companion for urban residents, aiming to enhance the quality of life by integrating the essence of traditional health practices with the convenience of modern technology. By democratizing access to health and wellness resources, we envision a future where every urban dweller can achieve a balanced and healthy lifestyle, irrespective of their hectic schedules or geographical constraints. Join us in redefining urban health and wellness for a happier, healthier tomorrow.
 
-
-## Instruction 
-* You just need the frontend file to run website as backend api's are hosted on pythonanywhere
-* clone the repository
-* In the frontend directory ,
-* Run ``` npm i ``` to download required nodemodules![WhatsApp Image 2024-03-16 at 06 47 28_ed7014f7](https://github.com/Tejas-1704/Hackoverflow/assets/99063222/3aa6938d-7563-4e82-b908-fe05953f6815)
-
-  ``` npm run dev``` to start the server
