@@ -31,8 +31,7 @@ Our app is not just a tool but a companion for urban residents, aiming to enhanc
 
 ![WhatsApp Image 2024-03-16 at 6 37 54 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/5a14603e-1fa4-474e-8c9f-bc8c6425466f)
 ![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/d425b95d-ba01-46c1-b0e7-5397e7a02fc9)
-![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/d425b95d-ba01-46c1-b0e7-5397e7a02fc9)
-![WhatsApp Image 2024-03-16 at 6 37 54 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/21ffd205-4d52-41b2-93d8-cccbcab5d8b6)
+
 ![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/4ad87169-ff9c-48f7-b1f5-358d387355d7)
 ![WhatsApp Image 2024-03-16 at 6 39 51 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/71b40ec8-9bc9-4a7a-a324-4dc0c37a5b1b)
 ![WhatsApp Image 2024-03-16 at 6 44 34 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/c35e1a5f-0ad0-401a-a213-806632656f1b)
