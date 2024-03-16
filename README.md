@@ -1,5 +1,15 @@
 # Hackoverflow
 
+
+## Instructions to use the website
+
+* You just need the frontend file to run website as backend api's are hosted on pythonanywhere
+* clone the repository
+* In the frontend directory ,
+* Run ``` npm i ``` to download required nodemodules
+  ``` npm run dev``` to start the server
+
+
 # Health and Wellness App for Urban Dwellers
 In today's fast-paced urban environment, maintaining physical and mental health has become increasingly challenging. Extended work hours, constant engagement with technology, and the hustle of city life have contributed to a rise in health issues among urban residents. This situation is further complicated by barriers such as limited access to timely healthcare services and cultural and linguistic differences that hinder the effective communication of health-related information.
 
@@ -20,14 +30,6 @@ Our mental health chatbot is built on a sophisticated platform that mines insigh
 Our cutting-edge facial analysis tool offers real-time insights into users' emotional states, suggesting personalized interventions such as exercises for eye strain relief. Additionally, it curates content like movies, music, and stories tailored to the user's mood, fostering a positive mental state.
 
 Our app is not just a tool but a companion for urban residents, aiming to enhance the quality of life by integrating the essence of traditional health practices with the convenience of modern technology. By democratizing access to health and wellness resources, we envision a future where every urban dweller can achieve a balanced and healthy lifestyle, irrespective of their hectic schedules or geographical constraints. Join us in redefining urban health and wellness for a happier, healthier tomorrow.
-
-## Instructions to use the website
-
-* You just need the frontend file to run website as backend api's are hosted on pythonanywhere
-* clone the repository
-* In the frontend directory ,
-* Run ``` npm i ``` to download required nodemodules
-  ``` npm run dev``` to start the server
 
   
 ## Homepage
