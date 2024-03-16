@@ -15,6 +15,10 @@ To address these multifaceted challenges, we are excited to introduce a groundbr
 ![WhatsApp Image 2024-03-16 at 6 37 54 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/5a14603e-1fa4-474e-8c9f-bc8c6425466f)
 ![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/d425b95d-ba01-46c1-b0e7-5397e7a02fc9)
 
+## TechStack:
+![image](https://github.com/Tejas-1704/Hackoverflow/assets/99063222/5a65f197-a409-4813-82f5-1276f962a4bf)
+
+
 ## Key Features:
 
 ### 1. Medical User Prompting for General Health:
