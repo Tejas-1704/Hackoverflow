@@ -1,5 +1,5 @@
 # Health and Wellness App for Urban Dwellers
-## Instructions to use the website
+## Instructions to use the website:
 
 * You just need the frontend file to run website as backend api's are hosted on pythonanywhere
 * clone the repository
