@@ -29,9 +29,15 @@ Our app is not just a tool but a companion for urban residents, aiming to enhanc
 * Run ``` npm i ``` to download required nodemodules
   ``` npm run dev``` to start the server
 
+  
+## Homepage
 ![WhatsApp Image 2024-03-16 at 6 37 54 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/5a14603e-1fa4-474e-8c9f-bc8c6425466f)
 ![WhatsApp Image 2024-03-16 at 6 38 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/d425b95d-ba01-46c1-b0e7-5397e7a02fc9)
 
+
+# Features
+
+## 2 kinds of chatbots one is for spiritual health named spiritual and other is mindmingle which focuses on providing solutions to mental health related problems
 ![WhatsApp Image 2024-03-16 at 6 39 51 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/71b40ec8-9bc9-4a7a-a324-4dc0c37a5b1b)
 ![WhatsApp Image 2024-03-16 at 6 44 34 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/c35e1a5f-0ad0-401a-a213-806632656f1b)
 ![WhatsApp Image 2024-03-16 at 6 45 21 AM](https://github.com/Tejas-1704/Hackoverflow/assets/97530889/79141300-2299-40b1-bf38-55e05e73da56)
